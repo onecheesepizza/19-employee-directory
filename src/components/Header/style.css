@@ -1,7 +1,10 @@
-.pageHeader {
+.pageHeader h1 {
   margin: 0 auto;
   text-align: center;
-  font-size: 2.5em;
+  font-size: 4em;
   font-style: italic;
-  color: rgb(60, 60, 60);
+  color: white;
+  background-color: #363636;
+  padding: .5em;
+  text-transform: uppercase;
 }

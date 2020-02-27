@@ -3,7 +3,7 @@ body {
 }
 .employeeTable {
   max-width: 960px;
-  margin: 0 auto;
+  margin: 4em auto;
 }
 .MuiTableSortLabel-icon {
   position: absolute;
