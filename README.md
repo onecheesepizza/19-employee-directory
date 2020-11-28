@@ -4,7 +4,7 @@
 A [React](https://reactjs.org/) app demonstrating sorting and filtering of table data using components from [MUI-Datatables](https://github.com/gregnb/mui-datatables) and [Material UI](https://material-ui.com/). Deployed to GitHub Pages with [gh-pages](https://www.npmjs.com/package/gh-pages). 
 
 ## Live Application
-Deployed at: [https://onecheesepizza.github.io/19-employee-directory/](https://onecheesepizza.github.io/19-employee-directory/)
+Deployed at: [https://zebranode.github.io/19-employee-directory/](https://zebranode.github.io/19-employee-directory/)
 
 ## Run Locally  
 clone the repo, cd to directory.
